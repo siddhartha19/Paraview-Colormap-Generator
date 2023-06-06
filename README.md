@@ -34,6 +34,7 @@ cols	 = ["03071e","6a040f","9d0208","d00000","e85d04","faa307","ffba08","fde7ae"
 Once a rendering is done, open the "Colormap selector" and "Load" the generated colormap. Depending on the version of Paraview, the new map may/may not show up immediately - latter if the current colormaps in view are set to "Default". In this case, change "Default" to "All", which will show the new map towards the end. You can select and click on "Show this map in Default", when applying the colormap, to have it show up front.
 
 <img src="sample.png" width=50% height=50%>
+
 **Eg.** Rendering of a field from the [Johns Hopkins Turbulence Database](http://turbulence.pha.jhu.edu/), using the Wes Anderson inspired colormap.
 
-*In honour of the [Hue-Manatee](https://tenor.com/view/manatee-rainbow-nature-joke-funny-gif-5660562)
+*In honour of the [Hue-Manatee](https://tenor.com/view/manatee-rainbow-nature-joke-funny-gif-5660562)*
